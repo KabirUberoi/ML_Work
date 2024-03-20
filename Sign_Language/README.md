@@ -1,0 +1,1 @@
+The codebase for the Hand Sign Recognition project using ResNets is about 512MB and hence could not be uploaded directly to github. The code and trained model for that can be found here -> https://drive.google.com/drive/folders/1qKzzOHr-fpQ88jUzqeEVQ9_NMPCWk5dL?usp=sharing
